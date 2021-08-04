@@ -1,0 +1,19 @@
+.bg
+{
+    font-family:monospace;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ymD6pJGg0B4PDCv39TcKEFXNXfC9w0WZ4zuUDghqdEn_7EsoxPTKmglKnqkQGFVTO_0&usqp=CAU;');
+}
+
+h1
+
+{
+    font-family: 'Tourney', cursive;
+    font-size:32px !important;
+}
+
+canvas
+{
+border: 5px solid black;
+box-shadow: 5px 10px 10px #f7d04f;
+margin-top:50px;
+}
